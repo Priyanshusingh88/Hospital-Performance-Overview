@@ -44,4 +44,4 @@ The main purpose is to help understand hospital operations and support data-driv
 ### Project Outcome
 This project helped improve my practical skills in data cleaning, data transformation, DAX calculations, dashboard development, and data visualization using Power BI.
 - ##6.ScreenShot/demo
-- Dashboard Preview=
+- Dashboard Preview=https://github.com/Priyanshusingh88/Hospital-Performance-Overview/blob/main/Dashboard%20SS.png
