@@ -1,5 +1,4 @@
 # Hospital-Performance-Overview
-# Hospital Performance Overview
 
 ## 1. Project Name
 **Hospital Performance Overview – Power BI Dashboard**
