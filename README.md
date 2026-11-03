@@ -40,9 +40,8 @@ The main purpose is to help understand hospital operations and support data-driv
 - Almost half of the hospital stays last 16 days or more.
 - Revenue is distributed almost equally across five insurance providers.
 - July and August are the busiest admission months.
-
-- ##6.ScreenShot/demo
-- 
-
+  
 ### Project Outcome
 This project helped improve my practical skills in data cleaning, data transformation, DAX calculations, dashboard development, and data visualization using Power BI.
+- ##6.ScreenShot/demo
+- Dashboard Preview=
